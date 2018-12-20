@@ -1,4 +1,4 @@
 # carlensjoseph.com
 Repozitè sa a li genyen achiv site carlensjoseph.com lan.
 
-Oi! Eu sou o Heitor. Sou o professor e amigo do Carlens e vou ajudar ele na construção do seu próprio site.
+Este website é uma implementação própria de [https://html5up.net/stellar](https://html5up.net/stellar).
